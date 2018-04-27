@@ -1,5 +1,6 @@
 
-Fork of sample openshift ruby app
+Fork of sample openshift ruby app for experiments
+
 <!-- toc -->
 
 - [Ruby Sample App on OpenShift](#ruby-sample-app-on-openshift)
