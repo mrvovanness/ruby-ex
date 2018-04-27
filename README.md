@@ -1,5 +1,5 @@
 
-Fork of sample openshift ruby app for experiments and testing. Great
+Fork of sample openshift ruby app for experiments and testing. Fuck!
 
 <!-- toc -->
 
