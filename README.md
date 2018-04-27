@@ -1,5 +1,5 @@
 
-Fork of sample openshift ruby app for experiments
+Fork of sample openshift ruby app for experiments and testing
 
 <!-- toc -->
 
